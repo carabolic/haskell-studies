@@ -1,4 +1,4 @@
 haskell-studies
 ===============
 
-A collection of snippets and finding related to programming in Haskell.
+A collection of snippets and findings related to programming in Haskell.
